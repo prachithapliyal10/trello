@@ -13,6 +13,7 @@
   cursor: pointer;
   padding: 10px;
   overflow-wrap: break-word;
+  font-size: 25px;;
 }
 
 .Toggle-Add-Card {
